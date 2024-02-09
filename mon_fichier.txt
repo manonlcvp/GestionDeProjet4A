@@ -1,1 +1,2 @@
 ajout d'une ligne
+conflit créé par ajout d'une ligne en parallele
