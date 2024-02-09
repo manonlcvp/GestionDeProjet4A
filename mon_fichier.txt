@@ -1,4 +1,5 @@
 ajout d'une ligne
 ajout ligne utilisateur original
->>>>>>> 1401aceab2b3a08bdc67c6ba1d7b6c0fb0f16017
 merge
+merge utilisateur bis
+>>>>>>> new-branch-feature
